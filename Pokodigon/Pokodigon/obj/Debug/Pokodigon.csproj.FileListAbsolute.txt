@@ -1,0 +1,6 @@
+C:\Users\edann\Desktop\Pokodigon\Pokodigon\bin\Debug\Pokodigon.exe.config
+C:\Users\edann\Desktop\Pokodigon\Pokodigon\bin\Debug\Pokodigon.exe
+C:\Users\edann\Desktop\Pokodigon\Pokodigon\bin\Debug\Pokodigon.pdb
+C:\Users\edann\Desktop\Pokodigon\Pokodigon\obj\Debug\Pokodigon.csprojResolveAssemblyReference.cache
+C:\Users\edann\Desktop\Pokodigon\Pokodigon\obj\Debug\Pokodigon.exe
+C:\Users\edann\Desktop\Pokodigon\Pokodigon\obj\Debug\Pokodigon.pdb
